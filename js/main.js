@@ -1,7 +1,7 @@
 document.querySelector('button').addEventListener('click', apiRequest)
 
 async function apiRequest(){
-    const rapperName = document.querySelector('input').value
+    const playersName = document.querySelector('input').value
     try{
         const response = await fetch(`https://rose-weak-piranha.cyclic.app/api/${playersName}`)
         const data = await response.json()
