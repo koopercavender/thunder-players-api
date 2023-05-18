@@ -29,6 +29,8 @@ const players = {
     },
 }
 
+app.use('/js', express.static('js'))
+
 app.get('/', (request, response)=>{
     response.sendFile(__dirname + '/index.html')
 })
