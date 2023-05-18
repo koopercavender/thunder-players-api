@@ -1,0 +1,21 @@
+{
+  "name": "thunder-players-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopercavender/thunder-players-api.git"
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
