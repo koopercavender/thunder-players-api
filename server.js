@@ -20,12 +20,47 @@ const players = {
         'birthLocation': 'Fort Smith, AR',
         'college': 'University of Kentucky',
     },
-    'jalen williams':{
-        'age': 22,
-        'height': "6'5",
+    'chet holmgren':{
+        'age': 21,
+        'height': "7'1",
+        'position': 'Center/Power Forward',
+        'birthLocation': 'Minneapolis, MN',
+        'college': 'Gonzaga University',
+    },
+    'Josh Giddey':{
+        'age': 20,
+        'height': "6'8",
         'position': 'Shooting Guard',
-        'birthLocation': 'Denver, CO',
-        'college': 'Santa Clara University',
+        'birthLocation': 'Melbourne, AUS',
+        'college': 'N/a',
+    },
+    'Aleksej Pokusevski':{
+        'age': 21,
+        'height': "7'0",
+        'position': 'Forward',
+        'birthLocation': 'Belgrade, Serbia',
+        'college': 'N/a',
+    },
+    'Lindy Waters III':{
+        'age': 25,
+        'height': "6'6",
+        'position': 'Shooting Guard/Small Forward',
+        'birthLocation': 'Oklahoma City, OK',
+        'college': 'Oklahoma State University',
+    },
+    'Jaylin Williams':{
+        'age': 20,
+        'height': "6'9",
+        'position': 'Forward',
+        'birthLocation': 'Fort Smith, AR',
+        'college': 'University of Arkansas',
+    },
+    'Lugentz Dort':{
+        'age': 24,
+        'height': "6'4",
+        'position': 'Shooting Guard',
+        'birthLocation': 'Montreal, CAN',
+        'college': 'Arizona State University',
     },
 }
 
