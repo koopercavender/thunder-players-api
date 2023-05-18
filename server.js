@@ -16,7 +16,7 @@ const players = {
     'shai gilgeous-alexander':{
         'age': 24,
         'height': "6'6",
-        'position': 'Shooting Guard',
+        'position': 'Guard',
         'birthLocation': 'Fort Smith, AR',
         'college': 'University of Kentucky',
     },
@@ -37,7 +37,7 @@ const players = {
     'aleksej pokusevski':{
         'age': 21,
         'height': "7'0",
-        'position': 'Forward',
+        'position': 'Power Forward',
         'birthLocation': 'Belgrade, Serbia',
         'college': 'N/a',
     },
@@ -61,6 +61,13 @@ const players = {
         'position': 'Shooting Guard',
         'birthLocation': 'Montreal, CAN',
         'college': 'Arizona State University',
+    },
+    'jalen williams':{
+        'age': 22,
+        'height': "6'5",
+        'position': 'Guard',
+        'birthLocation': 'Fort Smith, AR',
+        'college': 'University of Arkansas',
     },
 }
 
