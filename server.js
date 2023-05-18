@@ -27,35 +27,35 @@ const players = {
         'birthLocation': 'Minneapolis, MN',
         'college': 'Gonzaga University',
     },
-    'Josh Giddey':{
+    'josh giddey':{
         'age': 20,
         'height': "6'8",
         'position': 'Shooting Guard',
         'birthLocation': 'Melbourne, AUS',
         'college': 'N/a',
     },
-    'Aleksej Pokusevski':{
+    'aleksej pokusevski':{
         'age': 21,
         'height': "7'0",
         'position': 'Forward',
         'birthLocation': 'Belgrade, Serbia',
         'college': 'N/a',
     },
-    'Lindy Waters III':{
+    'lindy waters iii':{
         'age': 25,
         'height': "6'6",
         'position': 'Shooting Guard/Small Forward',
         'birthLocation': 'Oklahoma City, OK',
         'college': 'Oklahoma State University',
     },
-    'Jaylin Williams':{
+    'jaylin williams':{
         'age': 20,
         'height': "6'9",
         'position': 'Forward',
         'birthLocation': 'Fort Smith, AR',
         'college': 'University of Arkansas',
     },
-    'Lugentz Dort':{
+    'lugentz dort':{
         'age': 24,
         'height': "6'4",
         'position': 'Shooting Guard',
