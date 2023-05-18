@@ -36,9 +36,9 @@ app.get('/', (request, response)=>{
 })
 
 app.get('/api/:playerName', (request,response)=>{
-    const playersName = request.params.playerName.toLowerCase()
-    if(players[playersName]){
-        response.json(players[playersName])
+    const playerName = request.params.playerName.toLowerCase()
+    if(players[playerName]){
+        response.json(players[playerName])
     }else{
         response.json('N/a')
     }
